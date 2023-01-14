@@ -1,0 +1,43 @@
+const nameList = ["Stacy", 
+"Johnny",
+"Priscilla",
+"Grahame", 
+"Vernon", 
+"Regina", 
+"Alan", 
+"Penny", 
+"Sarah-Jane", 
+"Elizabeth"];
+
+const animeList = ["Death Note",
+"Demon Slayer",
+"Sword Art Online",
+"Attack on Titan",
+"One Piece",
+"My Hero Academia",
+"Naruto",
+"One Punch Man",
+"Full Metal Alchemist Brotherhood",
+"Hunter X Hunter"];
+
+const colourList = ["white", 
+"blue", 
+"red", 
+"yellow", 
+"green", 
+"black", 
+"purple", 
+"pink"];
+
+const monthList = ["January",
+"Febuary",
+"March",
+"April",
+"May",
+"June",
+"July",
+"August",
+"September",
+"October",
+"November",
+"December"];
